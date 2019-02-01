@@ -69,3 +69,5 @@ $(document).ready(function() {
   }
 
 });
+
+//https://stackoverflow.com/questions/43948596/javascript-updating-tic-tac-toe-board  VERY IMPORTANT //
